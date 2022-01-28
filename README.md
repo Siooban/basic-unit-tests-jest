@@ -30,3 +30,5 @@ Une fois Jest installé, il ne vous reste plus qu'à exécuter la commande suiva
 ```
 npm test
 ```
+
+Salomé Lepers
